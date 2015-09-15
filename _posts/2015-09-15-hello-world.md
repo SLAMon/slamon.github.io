@@ -1,5 +1,5 @@
 ---
-layout: blag
+layout: post
 title: SLAMon says 'Hello World!'
 ---
 # Hello World!
