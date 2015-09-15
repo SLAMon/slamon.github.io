@@ -1,0 +1,9 @@
+name: SLAMon homepage
+url: http://slamon.github.io
+description: Description, status and blag about SLAMon
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: pygments
+
+exclude: ['Gemfile.lock', 'Gemfile', 'Rakefile']
